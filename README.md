@@ -37,8 +37,6 @@ Hi, I'm John Wael, a passionate Software Engineering student at Cairo University
 </div>
 
 
-<h2 align="center">I code with</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
