@@ -27,12 +27,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM4Nzk2ZmxwczFhMW92ajJiNDQ5a2lzMHh5amswNDl6djJzbTVrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
@@ -52,6 +46,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="332" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdvZnZpbzRyMW5kdHhqb253Ynh3eTZzbWxpN2I2emo5aGc3dTg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif"  />
+</div>
 
 ###
