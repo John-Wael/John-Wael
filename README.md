@@ -26,7 +26,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM4Nzk2ZmxwczFhMW92ajJiNDQ5a2lzMHh5amswNDl6djJzbTVrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"  />
+</div>
 
 ###
 
@@ -47,5 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
 
 ###
