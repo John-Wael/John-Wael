@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A passionate Software Engineering student at Cairo University with a growing interest in web development, AI, and open-source projects.<br><br>* 💻 I enjoy building clean, user-friendly websites and experimenting with new technologies.<br>* 🔧 I’ve worked on projects involving C++, Python, Java, JavaScript, and Arduino.<br>* 🤖 Recently exploring AI applications, BLE integration in Unity, and software architecture.<br>* 🚀 Currently expanding my knowledge in Software Engineering, Networks, and Databases.<br>* 🌱 Always learning and open to collaborations, internships, and tech communities.<br><br>📫 Let's Connect<br><br>* 📧 [johnwael37194@gmail.com](mailto:johnwael37194@gmail.com)<br>* 💼 [LinkedIn](https://www.linkedin.com/in/johnwael)</p>
+<p align="left">A passionate Software Engineering student at Cairo University with a growing interest in web development, AI, and open-source projects.<br><br>* 💻 I enjoy building clean, user-friendly websites and experimenting with new technologies.<br>* 🔧 I’ve worked on projects involving C++, Python, Java, JavaScript, and Arduino.<br>* 🤖 Recently exploring AI applications, BLE integration in Unity, and software architecture.<br>* 🚀 Currently expanding my knowledge in Software Engineering, Networks, and Databases.<br>* 🌱 Always learning and open to collaborations, internships, and tech communities.<br><br>📫 Let's Connect<br><br>📧 Email: johnwael37194@gmail.com<br> 💼 LinkedIn: https://www.linkedin.com/in/johnwael</p>
 
 ###
 
