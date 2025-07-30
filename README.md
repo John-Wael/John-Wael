@@ -6,7 +6,6 @@
   <img height="241" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdvZnZpbzRyMW5kdHhqb253Ynh3eTZzbWxpN2I2emo5aGc3dTg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" />
 </div>
 
----
 
 <h1 align="left">About Me</h1>
 
@@ -32,13 +31,11 @@ Hi, I'm John Wael, a passionate Software Engineering student at Cairo University
   </a>
 </div>
 
----
 
 <div align="center">
   <img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam56bWVlcmo0NWw3YnBxcDByb29kazJocjl0dGtrZGltMnhjaW0xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </div>
 
----
 
 <h2 align="center">I code with</h2>
 
@@ -60,7 +57,6 @@ Hi, I'm John Wael, a passionate Software Engineering student at Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
 
----
 
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 
