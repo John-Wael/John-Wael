@@ -57,9 +57,3 @@ Hi, I'm John Wael, a passionate Software Engineering student at Cairo University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
 
-
-<h2 align="center">🐍 GitHub Activity Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/dist/snake.svg" alt="Snake animation" />
-</p>
