@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/johnwael" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -57,5 +57,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
 
 ###
