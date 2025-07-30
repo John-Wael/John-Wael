@@ -46,21 +46,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Wael/John-Wael/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Wael/John-Wael/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
 
 ###
