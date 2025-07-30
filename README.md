@@ -26,6 +26,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -43,9 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/John-Wael/John-Wael/output/snake.svg" alt="Snake animation" />
 
 ###
