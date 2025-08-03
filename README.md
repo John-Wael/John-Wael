@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Hi, I'm John Wael, a passionate Software Engineering student at Cairo University with a growing interest in web development, AI, and open-source projects.<br><br>* 💻 I enjoy building clean, user-friendly websites and experimenting with new technologies.<br>* 🔧 I’ve worked on projects involving C++, Python, Java, JavaScript, and Arduino.<br>* 🤖 Recently exploring AI applications, BLE integration in Unity, and software architecture.<br>* 🚀 Currently expanding my knowledge in Software Engineering, Networks, and Databases.<br>* 🌱 Always learning and open to collaborations, internships, and tech communities.<br><br>📫 Let's Connect</h3>
+<h3 align="left">Hi, I'm John Wael, a passionate Software Engineering student at Cairo University with a growing interest in web development, AI, and open-source projects.<br><br> 💻 I enjoy building clean, user-friendly websites and experimenting with new technologies.<br> 🔧 I’ve worked on projects involving C++, Python, Java, JavaScript, and Arduino.<br> 🤖 Recently exploring AI applications, BLE integration in Unity, and software architecture.<br> 🚀 Currently expanding my knowledge in Software Engineering, Networks, and Databases.<br> 🌱 Always learning and open to collaborations, internships, and tech communities.<br><br>📫 Let's Connect</h3>
 
 ###
 
